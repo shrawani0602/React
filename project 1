@@ -15,4 +15,5 @@ export default function App() {
        <Translate text ={text} language={language}/>
     </div>
   );
+  
 }
